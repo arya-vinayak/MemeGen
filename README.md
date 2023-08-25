@@ -30,7 +30,7 @@ To get started, follow these steps:
 
 3. Start the Development Server:
 
-   After installing the dependencies, run the following command to start the development server: 
+After installing the dependencies, run the following command to start the development server: 
  ```bash
   npm run dev
 ```
@@ -43,7 +43,3 @@ To get started, follow these steps:
 The app is deployed and accessible online:
 
 Vercel Deployment: https://meme-gen-orpin.vercel.app/
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
