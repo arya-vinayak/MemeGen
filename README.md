@@ -15,8 +15,8 @@ To get started, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-vite-meme-generator.git
-   cd your-vite-meme-generator
+   git clone https://github.com/arya-vinayak/MemeGen.git
+   cd MemeGen
    ```
 
 
