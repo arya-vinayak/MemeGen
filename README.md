@@ -1,8 +1,23 @@
-# React + Vite
+# Meme Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple custom meme generator web app built with React and Vite.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Create custom memes with your own text and images.
+* Choose from a variety of meme templates.
+* Save your memes to your computer.
+
+## Getting Started
+
+To get started, clone the repository to your local machine:
+
+Then, install the dependencies:
+
+npm install
+
+Finally, run the app:
+
+npm run dev
+
+The app will be available at http://localhost:3000.
