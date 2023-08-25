@@ -30,7 +30,7 @@ To get started, follow these steps:
 
 3. Start the Development Server:
 
-After installing the dependencies, run the following command to start the development server: 
+   After installing the dependencies, run the following command to start the development server: 
  ```bash
   npm run dev
 ```
